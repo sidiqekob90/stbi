@@ -1,2 +1,3 @@
 # stbi
-Sistem Temu Balik Informasi Perundang-undangan
+
+db file >>>>> id10963848_stbi
